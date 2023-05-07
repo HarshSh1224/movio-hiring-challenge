@@ -1,0 +1,6 @@
+As I am currently in my second year of Software Engineering at Delhi Technological University, I am currently focussing on improving my programming skills, by:
+Participating regularly in online coding contests
+Practicing Data Structures and algorithm
+Working on Flutter projects
+
+And I feel my field of deliberate practice is Data Structures and Algorithms.
